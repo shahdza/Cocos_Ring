@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<AnimationProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>C:\Users\Administrator\Documents\Anim\Anim_Hero_Aragorn</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>C:\Users\Administrator\Documents\Anim\Anim_Hero_Aragorn\Resources</Resources>
+  <Name>Anim_Hero_Aragorn</Name>
+  <JsonFileName>Anim_Hero_Aragorn.json</JsonFileName>
+  <JsonFolder>C:\Users\Administrator\Documents\Anim\Anim_Hero_Aragorn\Json</JsonFolder>
+  <JsonList />
+  <CanvasSize>
+    <Width>0</Width>
+    <Height>0</Height>
+  </CanvasSize>
+  <filePath>C:\Users\Administrator\Documents\Anim\Anim_Hero_Aragorn\Anim_Hero_Aragorn.xml.animation</filePath>
+  <ProjectType>AnimationProject</ProjectType>
+  <ResRelativePath />
+  <ResourceFileList />
+  <bBatchImage>true</bBatchImage>
+</AnimationProject>

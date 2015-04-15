@@ -1,0 +1,6 @@
+ID,BuildingID,PositionX,PositionY,BuildState,LastBuildTime,LastGoldHarvest,LastWoodHarvest
+1,10101,19,19,1,0,,
+2,10201,23,19,1,0,,
+3,10301,15,19,1,0,,
+4,10401,19,15,1,0,,
+5,10501,19,23,1,0,,

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>C:\Users\Administrator\Documents\RingUI</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>C:\Users\Administrator\Documents\RingUI\Resources</Resources>
+  <Name>RingUI</Name>
+  <JsonFileName>RingUI.json</JsonFileName>
+  <JsonFolder>C:\Users\Administrator\Documents\RingUI\Json</JsonFolder>
+  <JsonList>
+    <string>BuildingInfoDialog.json</string>
+    <string>BuildingUpgradeDialog.json</string>
+    <string>CampDialog.json</string>
+    <string>ChapterDialog.json</string>
+    <string>HomeDialog.json</string>
+    <string>HomeHudLayer.json</string>
+    <string>HomeOptLayer.json</string>
+    <string>LiberateDialog.json</string>
+    <string>NewBuildDialog.json</string>
+    <string>SoilderInfoDialog.json</string>
+    <string>WorldHudLayer.json</string>
+    <string>WorldMap.json</string>
+    <string>LabDialog.json</string>
+    <string>HeroInfoDialog.json</string>
+    <string>HeroHotelDialog.json</string>
+    <string>BattleHudLayer.json</string>
+    <string>GameOverDialog.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>960</Width>
+    <Height>540</Height>
+  </CanvasSize>
+  <filePath>C:\Users\Administrator\Documents\RingUI\RingUI.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>RingUI0.plist</string>
+  </imageFileList>
+  <imagePngList>
+    <string>RingUI0.png</string>
+  </imagePngList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>GameOverDialog.json</CurrentUIJson>
+</UIProject>
